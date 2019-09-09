@@ -1,0 +1,4 @@
+['remote "s3remote"']
+url = https://dvc-repos-gsg.s3.amazonaws.com/deeptropism/
+[core]
+remote = s3remote
