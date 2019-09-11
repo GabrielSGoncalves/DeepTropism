@@ -1,7 +1,6 @@
-md5: 031a57f9e83f5c9dc977cb0bf9fae5f2
-wdir: .
+md5: 8c95fc9eebd712fc07cf3cb6f8c4c0ca
 outs:
-- md5: da3bf3ed0a9c15330692e2ca06521670.dir
+- md5: 23ad87ef8e308342aad604fe8dcc1673.dir
   path: artifacts
   cache: true
   metric: false
