@@ -1,0 +1,27 @@
+Pos_array	3-letters-code	1-letter-code	Aminoacid
+1	Ala	A	Alanine
+2	Asn	N	Asparagine
+3	Asp	D	Aspartic acid
+4	Cys	C	Cysteine
+5	Gln	Q	Glutamine
+6	Glu	E	Glutamic acid
+7	Gly	G	Glycine
+8	His	H	Histidine
+9	Ile	I	Isoleucine
+10	Leu	L	Leucine
+11	Lys	K	Lysine
+12	Met	M	Methionine
+13	Phe	F	Phenylalanine
+14	Pro	P	Proline
+15	Pyl	O	Pyrrolysine
+16	Ser	S	Serine
+17	Sec	U	Selenocysteine
+18	Thr	T	Threonine
+19	Trp	W	Tryptophan
+20	Tyr	Y	Tyrosine
+21	Val	V	Valine
+22	Asx	B	Aspartic acid or Asparagine
+23	Glx	Z	Glutamic acid or Glutamine
+24	Xaa	X	Any amino acid
+25	Xle	J	Leucine or Isoleucine
+	Ept	-	Empty
