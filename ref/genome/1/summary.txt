@@ -1,0 +1,13 @@
+#Summary
+#Generated on	Wed Sep 18 10:39:28 BRT 2019
+#Version	5
+chroms	1
+bases	16035
+defined	11
+undefined	16024
+contigs	1
+scaffolds	1
+interpad	300
+source	/home/gabriel/Documents/Repos/DeepTropism/B_FR_83_HXB2.fasta
+bytes	50
+last modified	1568813778987
